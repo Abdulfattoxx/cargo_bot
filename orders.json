@@ -1,0 +1,103 @@
+[
+    {
+        "user_id": 8062759797,
+        "name": "gff",
+        "phone": "+998888170141",
+        "cargo_type": "ggd",
+        "weight": "77",
+        "size": "53",
+        "comment": "yoq",
+        "from_region": "Toshkent",
+        "from_district": "Mirobod",
+        "to_region": "Samarqand",
+        "to_district": "Oqdaryo"
+    },
+    {
+        "user_id": 8062759797,
+        "name": "cff",
+        "phone": "+998888170131",
+        "cargo_type": "kiyim",
+        "weight": "Ko\u2018rsatilmagan",
+        "size": "Ko\u2018rsatilmagan",
+        "comment": "ggfd",
+        "from_region": "Toshkent",
+        "from_district": "Shayxontohur",
+        "to_region": "Navoiy",
+        "to_district": "Uchquduq",
+        "status": "Yangi"
+    },
+    {
+        "user_id": 8062759797,
+        "name": "admin",
+        "phone": "+998771240517",
+        "cargo_type": "Meca",
+        "weight": "Ko\u2018rsatilmagan",
+        "size": "Ko\u2018rsatilmagan",
+        "comment": "Yo\u2018q",
+        "from_region": "Namangan",
+        "from_district": "Kosonsoy",
+        "to_region": "Toshkent viloyati",
+        "to_district": "Parkent",
+        "status": "Rad etildi"
+    },
+    {
+        "order_id": 4,
+        "user_id": 8062759797,
+        "name": "gessash",
+        "phone": "+998888170131",
+        "cargo_type": "Maishiy texnika",
+        "weight": "Ko\u2018rsatilmagan",
+        "size": "Ko\u2018rsatilmagan",
+        "comment": "Yo\u2018q",
+        "from_region": "Xorazm",
+        "from_district": "Urganch",
+        "to_region": "Navoiy",
+        "to_district": "Uchquduq",
+        "status": "Yangi",
+        "group_message_ids": {
+            "-1002658308062": 44,
+            "-1002688780911": 42,
+            "-1002273042338": 42
+        }
+    },
+    {
+        "order_id": 5,
+        "user_id": 8062759797,
+        "name": "Eldor",
+        "phone": "+998771240517",
+        "cargo_type": "Granula",
+        "weight": "25000",
+        "size": "Ko\u2018rsatilmagan",
+        "comment": "Shart emas",
+        "from_region": "Toshkent",
+        "from_district": "Uchtepa",
+        "to_region": "Namangan",
+        "to_district": "Uychi",
+        "status": "Yangi",
+        "group_message_ids": {
+            "-1002658308062": 46,
+            "-1002688780911": 44,
+            "-1002273042338": 44
+        }
+    },
+    {
+        "order_id": 6,
+        "user_id": 8062759797,
+        "name": "vvv",
+        "phone": "+998888170131",
+        "cargo_type": "Kitob",
+        "weight": "Ko\u2018rsatilmagan",
+        "size": "Ko\u2018rsatilmagan",
+        "comment": "Yo\u2018q",
+        "from_region": "Xorazm",
+        "from_district": "Shovot",
+        "to_region": "Navoiy",
+        "to_district": "Uchquduq",
+        "status": "Yangi",
+        "group_message_ids": {
+            "-1002658308062": 47,
+            "-1002688780911": 45,
+            "-1002273042338": 45
+        }
+    }
+]
